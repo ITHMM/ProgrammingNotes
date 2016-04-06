@@ -2,7 +2,7 @@
 
 # Java
 
-- [Java并发编程](Java/Java并发编程的艺术)
+- [Java并发编程的艺术](Java/Java并发编程的艺术)
 
 <br/><br/><br/>
 
